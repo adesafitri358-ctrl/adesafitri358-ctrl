@@ -14,4 +14,4 @@ Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui tek
 ## 🌐 Hubungi Saya
 - 📧 Email: adesafitri123@gmail.com
 - 🚀 Media Sosial: [adenew]
-- 💻 GitHub: [https://github.com/adenew](https://github.com/adenew
+- 💻 GitHub: [https://github.com/adenew]
